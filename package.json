@@ -11,11 +11,8 @@
     "sun",
     "fluxor"
   ],
-  "repository": "https://github.com/ClaymasterJ/theme-flux",
+  "repository": "https://github.com/ClaymasterJ/theme-fluxor",
   "license": "MIT",
-  "scripts": {
-    "lint": "eslint ./lib"
-  },
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
