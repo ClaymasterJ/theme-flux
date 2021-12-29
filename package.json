@@ -1,7 +1,7 @@
 {
   "name": "theme-fluxor",
   "main": "./lib/main",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Working package that switches your theme based on the sun's position at your location.",
   "keywords": [
     "atom",
