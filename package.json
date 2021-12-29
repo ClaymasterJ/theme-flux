@@ -1,13 +1,14 @@
 {
-  "name": "theme-flux",
-  "main": "./lib/theme-flux",
+  "name": "theme-fluxor",
+  "main": "./lib/main",
   "version": "0.2.1",
   "description": "Working package that switches your theme based on the sun's position at your location.",
   "keywords": [
     "atom",
     "theme",
     "flux",
-    "sun"
+    "sun",
+    "fluxor"
   ],
   "repository": "https://github.com/ClaymasterJ/theme-flux",
   "license": "MIT",
@@ -25,9 +26,6 @@
     "eslint-plugin-react": "^5.2.2"
   },
   "dependencies": {
-    "ext-ip": "^0.3.9",
-    "ip-location": "^1.0.1",
-    "public-ip": "^5.0.0",
     "solar-calc": "^1.1.0"
   }
 }
