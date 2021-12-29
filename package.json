@@ -1,10 +1,15 @@
 {
   "name": "theme-flux",
   "main": "./lib/theme-flux",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Switches your theme based on your location and the position of the sun.",
-  "keywords": [],
-  "repository": "https://github.com/as-cii/theme-flux",
+  "keywords": [
+    "atom",
+    "theme",
+    "flux",
+    "sun"
+  ],
+  "repository": "https://github.com/ClaymasterJ/theme-flux",
   "license": "MIT",
   "scripts": {
     "lint": "eslint ./lib"
@@ -12,14 +17,17 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-    "solar-calc": "^1.0.3"
-  },
   "devDependencies": {
     "eslint": "^2.13.1",
     "eslint-config-airbnb": "^9.0.1",
     "eslint-plugin-import": "^1.9.2",
     "eslint-plugin-jsx-a11y": "^1.5.3",
     "eslint-plugin-react": "^5.2.2"
+  },
+  "dependencies": {
+    "ext-ip": "^0.3.9",
+    "ip-location": "^1.0.1",
+    "public-ip": "^5.0.0",
+    "solar-calc": "^1.1.0"
   }
 }

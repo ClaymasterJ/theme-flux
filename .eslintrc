@@ -1,9 +1,0 @@
-{
-  "extends": "eslint-config-airbnb",
-  "globals": {
-    "atom": true
-  },
-  "rules": {
-    "import/no-unresolved": [2, { ignore: ['atom'] }]
-  }
-}
