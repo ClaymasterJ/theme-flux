@@ -2,7 +2,7 @@
   "name": "theme-flux",
   "main": "./lib/theme-flux",
   "version": "0.2.1",
-  "description": "Switches your theme based on your location and the position of the sun.",
+  "description": "Working package that switches your theme based on the sun's position at your location.",
   "keywords": [
     "atom",
     "theme",
