@@ -1,4 +1,4 @@
-Copyright (c) 2015 Antonio Scandurra
+Copyright (c) 2021 Clayton J Roberts
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
